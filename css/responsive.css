@@ -1,0 +1,691 @@
+@media only screen and (max-width: 1440px) {
+  #home {
+    padding-bottom: 200px;
+  }
+  #home .home-top h1 {
+    font-size: 75px;
+  }
+  #home .home-content .slider-book #number {
+    font-size: 55px;
+  }
+  #home .home-content .slider-book .slider-hide p {
+    font-size: 27px;
+  }
+  #home .home-content .slider-book .slider-middle p {
+    width: 650px;
+    font-size: 18px;
+    padding: 20px 30px;
+  }
+  #new-releases .new-releases-top {
+    margin: 60px 0px;
+  }
+  #new-releases .new-releases-top h1 {
+    font-size: 65px;
+  }
+  #featured-books .featured-books-content {
+    padding: 120px 0px;
+  }
+  #featured-books .featured-books-content .featured-text {
+    width: 700px;
+  }
+  #featured-books .featured-books-content .featured-text h1 {
+    font-size: 70px;
+  }
+  #featured-books .number {
+    margin-top: -380px;
+  }
+  #featured-books .number span {
+    font-size: 350px;
+  }
+  #how-we-started .how-we-started-top {
+    padding: 110px 0px;
+  }
+  #how-we-started .how-we-started-top p {
+    font-size: 27px;
+  }
+  #how-we-started .how-we-started-top p:last-of-type {
+    font-size: 20px;
+    width: 600px;
+    margin: auto;
+    text-align: center;
+  }
+  #how-we-started .how-we-started-top h1 {
+    font-size: 60px;
+    width: 600px;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button {
+    top: 80px;
+  }
+  #most-popular {
+    padding: 150px 0px;
+  }
+  #most-popular .most-popular-content .most-text {
+    width: 600px;
+  }
+  #most-popular .most-popular-content .most-text h1 {
+    font-size: 65px;
+  }
+  #most-popular .most-book .most-doublebook {
+    margin-left: 120px;
+  }
+  #itsout .itsout-border {
+    margin: 90px 0px;
+  }
+  #itsout .itsout-border .itsout-number span {
+    font-size: 80px;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 h1 {
+    font-size: 70px;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 p {
+    font-size: 20px;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-numbers p {
+    font-size: 65px;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-text .itsout-cards-content-words {
+    padding: 0px 50px;
+  }
+  #contact h1 {
+    font-size: 70px;
+  }
+}
+
+@media only screen and (max-width: 1240px) {
+  #home {
+    padding-bottom: 150px;
+  }
+  #home .home-top h1 {
+    font-size: 68px;
+  }
+  #home .home-content .slider-book #number {
+    font-size: 50px;
+  }
+  #home .home-content .slider-book .slider-hide p {
+    font-size: 25px;
+  }
+  #home .home-content .slider-book .slider-middle p {
+    width: 650px;
+    font-size: 18px;
+    padding: 20px 30px;
+  }
+  #new-releases .new-releases-top h1 {
+    font-size: 65px;
+  }
+  #featured-books .featured-books-content .featured-text h1 {
+    font-size: 65px;
+  }
+  #featured-books .number {
+    margin-top: -330px;
+  }
+  #featured-books .number span {
+    font-size: 320px;
+  }
+  #how-we-started .how-we-started h1 {
+    font-size: 60px;
+  }
+  #how-we-started .how-we-started p {
+    font-size: 28px;
+  }
+  #how-we-started .how-we-started p:last-of-type {
+    width: 580px;
+    font-size: 25px;
+  }
+  #most-popular {
+    padding: 150px 0px;
+  }
+  #most-popular .most-text {
+    width: 600px;
+  }
+  #most-popular .most-text h1 {
+    font-size: 60px;
+  }
+  #itsout .itsout-border .itsout-number span {
+    font-size: 70px;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 h1 {
+    font-size: 60px;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 p {
+    font-size: 20px;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-numbers p {
+    margin-top: 30px;
+    font-size: 55px;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-text .itsout-cards-content-words {
+    padding: 20px 50px;
+  }
+  #contact {
+    padding: 150px 0px;
+  }
+  #contact h1 {
+    font-size: 55px;
+  }
+}
+
+@media only screen and (max-width: 1140px) {
+  #home {
+    padding-bottom: 100px;
+  }
+  #home .home-top h1 {
+    font-size: 60px;
+  }
+  #home .home-content .slider-book #number {
+    font-size: 45px;
+  }
+  #home .home-content .slider-book .slider-hide p {
+    font-size: 22px;
+  }
+  #home .home-content .slider-book .slider-middle p {
+    width: 600px;
+    font-size: 18px;
+    padding: 20px 50px;
+  }
+  #new-releases .new-releases-top h1 {
+    font-size: 60px;
+  }
+  #featured-books .featured-books-content .featured-text h1 {
+    font-size: 60px;
+  }
+  #featured-books .number {
+    margin-top: -300px;
+  }
+  #featured-books .number span {
+    font-size: 280px;
+  }
+  #books .books-content .books-border .books-content-top p {
+    font-size: 15px;
+  }
+  #books .books-content .books-border .books-content-top h4 {
+    font-size: 20px;
+  }
+  #how-we-started .how-we-started-top {
+    padding: 70px 0px;
+  }
+  #how-we-started .how-we-started-top h1 {
+    font-size: 55px;
+  }
+  #how-we-started .how-we-started-top p {
+    font-size: 25px;
+  }
+  #how-we-started .how-we-started-top p:last-of-type {
+    width: 580px;
+    font-size: 20px;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button {
+    position: relative;
+    top: 50px;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button a {
+    color: #fff7e4;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button a i {
+    font-size: 30px;
+  }
+  #most-popular {
+    padding: 120px 0px;
+  }
+  #most-popular .most-popular-content .most-text {
+    width: 500px;
+  }
+  #most-popular .most-popular-content .most-text h1 {
+    font-size: 50px;
+  }
+  #itsout .itsout-border .itsout-number span {
+    font-size: 60px;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 h1 {
+    font-size: 55px;
+  }
+  #itsout .itsout-cards .itsout-cards-content {
+    margin: 20px 20px 15px 20px;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-numbers p {
+    margin-top: 2px;
+    margin-right: 30px;
+    font-size: 50px;
+  }
+  footer input[type=text] {
+    width: 250px;
+  }
+}
+
+@media only screen and (max-width: 998px) {
+  #home {
+    padding-top: 40px;
+    padding-bottom: 0px;
+  }
+  #home .home-top h1 {
+    font-size: 48px;
+  }
+  #home .home-content .slider-book #number {
+    font-size: 35px;
+  }
+  #home .home-content .slider-book .slider-hide p {
+    font-size: 20px;
+  }
+  #home .home-content .slider-book .slider-middle p {
+    width: 400px;
+    font-size: 16px;
+    padding: 20px 50px;
+  }
+  #home .sliderbutton {
+    top: -350px;
+  }
+  #new-releases .new-releases-top h1 {
+    font-size: 48px;
+  }
+  #featured-books .featured-books-content {
+    padding: 100px 0px;
+  }
+  #featured-books .featured-books-content .featured-text h1 {
+    font-size: 48px;
+  }
+  #featured-books .number {
+    margin-top: -300px;
+  }
+  #featured-books .number span {
+    font-size: 280px;
+  }
+  #how-we-started .how-we-started-top {
+    padding: 20px 0px;
+  }
+  #how-we-started .how-we-started-top h1 {
+    font-size: 40px;
+    padding: 0px 50px;
+  }
+  #how-we-started .how-we-started-top p {
+    font-size: 20px;
+  }
+  #how-we-started .how-we-started-top p:last-of-type {
+    width: 400px;
+    font-size: 18px;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button {
+    position: relative;
+    top: 10px;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button a {
+    color: #fff7e4;
+  }
+  #how-we-started .how-we-started-top .how-we-started-button a i {
+    font-size: 30px;
+  }
+  #most-popular {
+    padding: 50px 0px;
+  }
+  #most-popular .most-popular-content .most-text {
+    width: 400px;
+    margin-right: 20px;
+  }
+  #most-popular .most-popular-content .most-text h5 {
+    font-size: 20px;
+  }
+  #most-popular .most-popular-content .most-text h1 {
+    font-size: 35px;
+  }
+  #most-popular .most-popular-content .most-book img {
+    width: 50%;
+    height: auto;
+  }
+  #itsout .itsout-border {
+    margin: 10px;
+  }
+  #itsout .itsout-border .itsout-number span {
+    font-size: 48px;
+  }
+  #itsout .itsout-border .itsout-content {
+    padding: 30px 30px 30px 30px;
+  }
+  #itsout .itsout-border .itsout-content img {
+    width: 50%;
+    height: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 h1 {
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 p {
+    text-align: center;
+    margin: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 .btn-pink {
+    margin: auto;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 991px) {
+  footer {
+    margin: auto;
+    text-align: center;
+  }
+  footer h5 {
+    text-align: center;
+    margin: auto;
+    padding: 20px 0px;
+  }
+  footer ul {
+    text-align: center;
+    margin: auto;
+  }
+  footer ul li {
+    text-align: center;
+    margin: auto;
+  }
+  footer ul li a {
+    text-align: center;
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  header {
+    padding: 20px;
+  }
+  header .menu .menu-left .dropdown button {
+    font-size: 20px;
+  }
+  header .menu .menu-left .dropdown .dropdown-menu {
+    width: 300px;
+  }
+  header .menu .menu-left .dropdown .dropdown-menu a {
+    font-size: 20px;
+  }
+  #home {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  #home .home-top h1 {
+    font-size: 40px;
+  }
+  #home .home-content .slider-book #number {
+    font-size: 30px;
+  }
+  #home .home-content .slider-book .slider-hide p {
+    font-size: 18px;
+  }
+  #home .home-content .slider-book .slider-hide .stars i {
+    margin: 2px;
+  }
+  #home .home-content .slider-book .slider-middle p {
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    font-size: 14px;
+    padding: 10px 0px;
+  }
+  #home .sliderbutton {
+    top: -300px;
+  }
+  #new-releases .new-releases-top h1 {
+    font-size: 35px;
+  }
+  #new-releases .new-releases-top p {
+    width: 250px;
+  }
+  #featured-books .featured-books-content {
+    padding: 50px 0px;
+  }
+  #featured-books .featured-books-content .featured-text {
+    width: 300px;
+  }
+  #featured-books .featured-books-content .featured-text h1 {
+    font-size: 35px;
+  }
+  #featured-books .featured-books-content .featured-text p {
+    margin: 5px;
+  }
+  #featured-books .number {
+    margin-top: -220px;
+    margin-left: -70px;
+  }
+  #featured-books .number span {
+    font-size: 200px;
+  }
+  #how-we-started .how-we-started-top {
+    padding: 20px 0px;
+  }
+  #how-we-started .how-we-started-top h1 {
+    width: 350px;
+    font-size: 30px;
+    padding: 0px 0px;
+  }
+  #how-we-started .how-we-started-top p {
+    font-size: 20px;
+  }
+  #how-we-started .how-we-started-top p:last-of-type {
+    width: 350px;
+    font-size: 18px;
+  }
+  #most-popular {
+    padding: 50px 0px;
+  }
+  #most-popular .most-popular-content .most-text {
+    width: 300px;
+    margin-right: 20px;
+  }
+  #most-popular .most-popular-content .most-text h5 {
+    font-size: 20px;
+  }
+  #most-popular .most-popular-content .most-text h1 {
+    font-size: 35px;
+  }
+  #most-popular .most-popular-content .most-book {
+    display: none;
+  }
+  #most-popular .most-popular-content .most-book img {
+    width: 50%;
+    height: auto;
+  }
+  #itsout .itsout-border {
+    margin: 10px;
+  }
+  #itsout .itsout-border .itsout-number span {
+    font-size: 35px;
+  }
+  #itsout .itsout-border .itsout-content {
+    padding: 20px;
+  }
+  #itsout .itsout-border .itsout-content img {
+    width: 50%;
+    height: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 h1 {
+    font-size: 35px;
+    text-align: center;
+    margin: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 p {
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 .btn-pink {
+    margin: auto;
+    text-align: center;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-numbers p {
+    font-size: 45px;
+  }
+  #contact {
+    padding: 100px 0px;
+  }
+  #contact h1 {
+    font-size: 35px;
+  }
+  #contact .buttons .btn-whitebig {
+    padding: 10px 50px;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+  header {
+    padding: 20px;
+  }
+  header .menu .menu-left .dropdown button {
+    font-size: 20px;
+  }
+  header .menu .menu-left .dropdown .dropdown-menu {
+    width: 200px;
+  }
+  header .menu .menu-left .dropdown .dropdown-menu a {
+    font-size: 10px;
+  }
+  #home {
+    padding-top: 30px;
+    padding-bottom: 0px;
+  }
+  #home .home-top h1 {
+    font-size: 35px;
+  }
+  #home .home-content .slider-book #number {
+    font-size: 30px;
+  }
+  #home .home-content .slider-book .slider-hide p {
+    font-size: 15px;
+  }
+  #home .home-content .slider-book .slider-hide .stars i {
+    margin: 2px;
+  }
+  #home .home-content .slider-book .slider-middle p {
+    text-align: center;
+    margin: auto;
+    width: 200px;
+    font-size: 12px;
+    padding: 10px 0px;
+  }
+  #home .sliderbutton {
+    display: none;
+  }
+  #new-releases .new-releases-top h1 {
+    font-size: 30px;
+  }
+  #new-releases .new-releases-top p {
+    width: 200px;
+    font-size: 15px;
+  }
+  #featured-books .featured-books-content {
+    padding: 20px 0px;
+  }
+  #featured-books .featured-books-content .featured-images img {
+    display: none;
+  }
+  #featured-books .featured-books-content .featured-text {
+    margin: auto;
+    text-align: center;
+    padding: 0;
+  }
+  #featured-books .featured-books-content .featured-text h1 {
+    font-size: 30px;
+  }
+  #featured-books .featured-books-content .featured-text p {
+    margin: 5px;
+  }
+  #featured-books .featured-books-content .featured-text .btn-soft {
+    margin: auto;
+    text-align: center;
+  }
+  #featured-books .number {
+    margin-top: -110px;
+    margin-left: -60px;
+  }
+  #featured-books .number span {
+    font-size: 100px;
+  }
+  #how-we-started {
+    padding: 0;
+    margin: 0;
+  }
+  #how-we-started .how-we-started-top {
+    margin: 0;
+    padding: 20px 0px;
+  }
+  #how-we-started .how-we-started-top h1 {
+    width: 100%;
+    font-size: 30px;
+    padding: 0px 0px;
+  }
+  #how-we-started .how-we-started-top p {
+    font-size: 15px;
+  }
+  #how-we-started .how-we-started-top p:last-of-type {
+    width: 100%;
+    font-size: 15px;
+  }
+  #most-popular {
+    padding: 50px 0px;
+  }
+  #most-popular .most-popular-content {
+    padding: 0;
+    margin: 0;
+  }
+  #most-popular .most-popular-content .most-text {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    margin-right: 0px;
+  }
+  #most-popular .most-popular-content .most-text h5 {
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+  }
+  #most-popular .most-popular-content .most-text h1 {
+    padding: 0;
+    margin: 0;
+    font-size: 35px;
+  }
+  #most-popular .most-popular-content .most-book {
+    display: none;
+  }
+  #most-popular .most-popular-content .most-book img {
+    width: 50%;
+    height: auto;
+  }
+  #itsout .itsout-border {
+    margin: 10px;
+  }
+  #itsout .itsout-border .itsout-number span {
+    font-size: 30px;
+  }
+  #itsout .itsout-border .itsout-content {
+    padding: 20px;
+  }
+  #itsout .itsout-border .itsout-content img {
+    width: 50%;
+    height: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 h1 {
+    font-size: 30px;
+    text-align: center;
+    margin: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 p {
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+  }
+  #itsout .itsout-border .itsout-content .col-lg-6 .btn-pink {
+    margin: auto;
+    text-align: center;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-numbers p {
+    font-size: 40px;
+  }
+  #itsout .itsout-cards .itsout-cards-content .itsout-cards-content-text .itsout-cards-content-words {
+    padding: 0px 5px;
+  }
+  #contact {
+    padding: 50px 0px;
+  }
+  #contact h1 {
+    font-size: 30px;
+  }
+  #contact .buttons .btn-whitebig {
+    padding: 10px 50px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
